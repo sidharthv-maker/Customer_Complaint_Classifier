@@ -58,10 +58,10 @@ priority
 
 The project uses two separate ML pipelines:
 
-# Category Prediction Model
+### Category Prediction Model
 Predicts the type of customer issue.
 Example: Payment Problem, Bug Report, Security Concern, Data Sync Issue.
-# Priority Prediction Model
+### Priority Prediction Model
 Predicts ticket urgency.
 Example: Low, Medium, High, Urgent.
 
