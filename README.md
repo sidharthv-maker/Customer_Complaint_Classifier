@@ -68,7 +68,6 @@ Example: Low, Medium, High, Urgent.
 Text data is processed using CountVectorizer, Structured categorical data is processed using OneHotEncoder and Numerical data is processed using SimpleImputer and MinMaxScaler.
 
 ## Future Improvements
-```
 - Replace CountVectorizer with TF-IDF
 - Compare Logistic Regression with Naive Bayes and Linear SVM
 - Add model confidence scores
@@ -76,4 +75,3 @@ Text data is processed using CountVectorizer, Structured categorical data is pro
 - Add a Streamlit web interface
 - Add ticket summary generation
 - Add manual review flag for low-confidence predictions and filter through spam tickets
-```
